@@ -1,4 +1,4 @@
-CHAPTER CLOSING THOUGHTS
+# CHAPTER CLOSING THOUGHTS
 
 Angular seems pretty useful due to it's data-binding as well as how the model is "live" and doesn't require sections of a page to be constantly refreshed in order to reflect changes.
 
